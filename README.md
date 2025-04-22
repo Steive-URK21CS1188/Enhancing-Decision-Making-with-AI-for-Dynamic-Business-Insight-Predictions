@@ -1,2 +1,7 @@
 # Enhancing-Decision-Making-with-AI-for-Dynamic-Business-Insight-Predictions
 The project utilizes a hybrid approach by incorporating various models: ARIMA for time-series forecasting of sales and revenue, Linear Regression for profit prediction based on business variables such as costs and revenue, OLS for price optimization, and KNN for customer segmentation based on purchasing behavior
+These models are trained and validated using historical data, and their performance is evaluated through established metrics like RMSE, R², and MAE.
+The system's results are presented through a dynamic Streamlit dashboard, enabling real-time interaction with the models. Business analysts and decision-makers can input new data, explore different scenarios, and visualize the impact of changes in pricing, sales strategies, and customer segmentation.
+By integrating these machine learning techniques into a user-friendly platform, the AI-driven business insight system helps organizations improve decision-making, optimize pricing strategies, and segment customers effectively. The system's adaptability also allows for future enhancements, such as incorporating deep learning models, expanding dashboard functionalities, and addressing additional business challenges, like inventory management or marketing campaign optimization. This system presents a powerful tool for organizations looking to leverage AI for smarter, data-driven decision-making.
+
+![image](https://github.com/user-attachments/assets/f973bd0c-8dff-41a1-8d8a-621fe402eb32)
