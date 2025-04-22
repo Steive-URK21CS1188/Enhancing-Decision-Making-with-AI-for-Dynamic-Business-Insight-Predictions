@@ -19,7 +19,15 @@ KEY TASKS
 
 ![image](https://github.com/user-attachments/assets/cfbc3a83-63b6-47ce-894d-048d6d6afe64)
 
-The Streamli Dashboard
+The Streamlit Dashboard
 
 ![image](https://github.com/user-attachments/assets/5e92f86f-f214-4f15-9d0d-a380e7d093aa)
+![image](https://github.com/user-attachments/assets/0b97038f-512e-46cb-ae9b-dac07cea9fa2)
+![image](https://github.com/user-attachments/assets/e123cba8-7c44-4fbc-b69b-2faf4fb8766a)
+![image](https://github.com/user-attachments/assets/260047a7-2c7f-4f82-ac7d-f489cbd3e9ef)
+![image](https://github.com/user-attachments/assets/31db844a-86a7-44db-a5b9-2ffbdaf489d1)
+![image](https://github.com/user-attachments/assets/7da83e59-7a06-4df1-9be8-ca5b1875f838)
+
+
+
 
