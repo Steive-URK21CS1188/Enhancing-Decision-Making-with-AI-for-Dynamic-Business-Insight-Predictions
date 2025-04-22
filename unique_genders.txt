@@ -1,0 +1,8 @@
+Agender
+Male
+Female
+Non-binary
+Polygender
+Genderqueer
+Genderfluid
+Bigender

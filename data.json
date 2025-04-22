@@ -1,0 +1,39 @@
+{
+    "users": [
+        {
+            "name": "user",
+            "email": "user@gmail.com",
+            "age": 23,
+            "sex": "Female",
+            "password": "1234"
+        },
+        {
+            "name": "user",
+            "email": "user@gmail.com",
+            "age": 23,
+            "sex": "Female",
+            "password": "1234"
+        },
+        {
+            "name": "test",
+            "email": "test@gmail.com",
+            "age": 12,
+            "sex": "Male",
+            "password": "12345"
+        },
+        {
+            "name": "SteJ",
+            "email": "steive.james@gmail.com",
+            "age": 20,
+            "sex": "Male",
+            "password": "stej"
+        },
+        {
+            "name": "stej",
+            "email": "stej@gmail.com",
+            "age": 21,
+            "sex": "Male",
+            "password": "confirm"
+        }
+    ]
+}
