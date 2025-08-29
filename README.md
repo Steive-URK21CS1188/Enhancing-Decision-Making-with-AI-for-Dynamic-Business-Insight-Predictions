@@ -7,15 +7,15 @@ By integrating these machine learning techniques into a user-friendly platform, 
 ![image](https://github.com/user-attachments/assets/d5efa378-76c4-4476-b7ec-a1aad32cfd10)
 
 KEY TASKS
-■	Data cleaning and transformation
-■	Feature engineering (e.g., encoding, scaling)
-■	Time-series data handling for ARIMA
-■	Model training and testing
-■	Hyperparameter optimization
-■	Prediction generation for sales, profit, price, and customer segmentation
-■	Displaying prediction results through visualizations (e.g., graphs, charts)
-■	Real-time interactivity for scenario analysis
-■	User-friendly interface for non-technical users
+- Data cleaning and transformation
+- Feature engineering (e.g., encoding, scaling)
+- Time-series data handling for ARIMA
+- Model training and testing
+- Hyperparameter optimization
+- Prediction generation for sales, profit, price, and customer segmentation
+- Displaying prediction results through visualizations (e.g., graphs, charts)
+- Real-time interactivity for scenario analysis
+- User-friendly interface for non-technical users
 
 ![image](https://github.com/user-attachments/assets/cfbc3a83-63b6-47ce-894d-048d6d6afe64)
 
